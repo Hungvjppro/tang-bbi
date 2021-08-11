@@ -15,5 +15,5 @@ iem là ai làm con tim tôi xuyến xao`,
     mess: 'Huyoyo biết mà 🥰. Iêu iem nhiềuuuu 😘😘',
     messDesc: 'Hết dịch thì anh đón đi chơi nhớ 🥰 .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com' 
 }
