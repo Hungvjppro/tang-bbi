@@ -5,8 +5,8 @@ iem là nắng còn tôi là mưa
 gió cuốn ánh mắt chạm nhau
 iem là ai làm con tim tôi xuyến xao`,
     btnIntro: 'hjhj',
-    title: 'Đổ em từ giây phút mình mới vừa chào nhau 😙',
-    desc: 'Không phải bích phương nên anh sẽ không có cú lừa nào đâu ',
+    title: 'Phải chăng iem đã iêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng iem đã say ngay từ lúc thấy nụ cười ấy 🥰�',
     btnYes: 'Vẫn rấc là iêu anh <3',
     btnNo: 'Hoq, hơi iêu thui :3',
     question:'Trên trái đất rấc nhiều người mà sao iem lại yêu anh <3',
